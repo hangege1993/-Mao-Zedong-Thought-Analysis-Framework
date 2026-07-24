@@ -5,8 +5,6 @@
 **v4.2.1** · 用结构化方法论分析科研、学术与决策问题  
 *Analyze research, academic, and decision-making problems with structured methodology*
 
-[![ClawHub](https://img.shields.io/badge/ClawHub-mao--zedong--analysis-blue)](https://clawhub.ai)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
 
