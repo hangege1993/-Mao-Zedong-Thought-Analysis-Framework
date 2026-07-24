@@ -41,7 +41,7 @@ skillhub install mao-zedong-analysis
 # Windows: %USERPROFILE%\.qclaw\skills\
 # macOS/Linux: ~/.qclaw/skills/
 ```
-
+# macOS/Linux: 或者把文件复制到对话框里，让它自己装
 **依赖 · Dependencies:** None. This is a pure methodology skill — no external APIs, no scripts, no binaries required.
 
 ---
